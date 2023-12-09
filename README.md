@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil 👋
 
-![Bannière](https://github.com/marielaure1/marielaure1/raw/main/assets/imgs/banner3.png)
+![Bannière](./assets/imgs/banner3.png)
 
 
 ## About Me
