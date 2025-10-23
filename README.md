@@ -7,7 +7,7 @@
 
 Welcome to my profile 👋
 
-🎂 I'm Marie-Laure Edjour, I'm 25.
+🎂 I'm Marie-Laure Edjour.
 
 Passionate about crafting seamless web and mobile experiences, I take pride in my role as a fullstack developer. My commitment extends across a spectrum of technologies to deliver exceptional user interfaces.
 
